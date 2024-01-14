@@ -12,6 +12,17 @@
       "filterable": 0
     },
     {
+      "key": "csp_圣城",
+      "name": "圣城影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./暴脾气.jar",
+      "ext": "./lib/圣城影视.json"
+    },
+    {
       "key": "玩偶哥哥",
       "name": "👽玩偶哥哥┃4K弹幕不断流",
       "type": 3,
