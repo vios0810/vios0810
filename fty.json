@@ -12,6 +12,17 @@
       "filterable": 0
     },
     {
+      "key": "新视觉",
+      "name": "🐦┃视觉┃影视",
+      "type": 3,
+      "api": "csp_Xinsj",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.80yy3.com/",
+      "jar": "./lib/fatcat.jar;md5;96A533B0939C0D6FAA329ABB167625FC"
+    },
+    {
       "key": "csp_圣城",
       "name": "圣城影视",
       "type": 3,
