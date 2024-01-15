@@ -12,6 +12,15 @@
       "filterable": 0
     },
     {
+      "key": "非凡",
+      "name": "非凡",
+      "type": 1,
+      "api": "http://cj.ffzyapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "changeable": 1,
+      "jar": "./lib/custom_spider.jar"
+    },
+    {
       "key": "新视觉",
       "name": "🐦┃视觉┃影视",
       "type": 3,
