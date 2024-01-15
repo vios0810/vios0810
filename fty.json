@@ -12,6 +12,15 @@
       "filterable": 0
     },
     {
+      "key": "996影院",
+      "name": "996影院",
+      "type": 3,
+      "api": "csp_Cs1369",
+      "searchable": 1,
+      "changeable": 1,
+       "jar": "./lib/custom_spider.jar"
+    },
+    {
       "key": "非凡",
       "name": "非凡",
       "type": 1,
@@ -19,6 +28,15 @@
       "searchable": 1,
       "changeable": 1,
       "jar": "./lib/custom_spider.jar"
+    },
+    {
+       "key": "索尼",
+      "name": "索尼 ",
+      "type": 1,
+      "api": "https://suoniapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "changeable": 1,
+    "jar": "./lib/custom_spider.jar"
     },
     {
       "key": "新视觉",
