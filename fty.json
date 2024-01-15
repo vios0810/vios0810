@@ -23,6 +23,20 @@
       "jar": "./lib/fatcat.jar;md5;96A533B0939C0D6FAA329ABB167625FC"
     },
     {
+      "key": "看球",
+      "name": "⚾️┃看球┃直播",
+      "type": 3,
+      "api": "csp_Kanqiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "gridview": 3,
+      "style": {
+        "type": "list"
+      },
+      "jar": "./lib/fatcat.jar;md5;96A533B0939C0D6FAA329ABB167625FC"
+    },
+    {
       "key": "csp_圣城",
       "name": "圣城影视",
       "type": 3,
