@@ -21,8 +21,8 @@
       "ext": {
         "token": "CandyMuj",
         "filter": "./lib/wogg.json"
-      },
-   "jar":"./lib/candymuj.jar"
+    },
+    "jar":"./lib/candymuj.jar"
     },
     {
       "key": "csp_WoGG1",
