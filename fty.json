@@ -12,6 +12,31 @@
       "filterable": 0
     },
     {
+      "key": "csp_WoGG",
+      "name": "💖玩偶影视4K",
+      "type": 3,
+      "api": "csp_Wogg",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": {
+        "token": "CandyMuj",
+        "filter": "./lib/wogg.json"
+      },
+   "jar": "./lib/candymuj.jar"
+    },
+    {
+      "key": "csp_WoGG1",
+      "name": "💖玩偶影视4K-备1",
+      "type": 3,
+      "api": "csp_WoGG",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹",
+      "jar": "./lib/Yoursmile.jar"
+    },
+    {
       "key": "996影院",
       "name": "996影院",
       "type": 3,
