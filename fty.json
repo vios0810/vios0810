@@ -11,17 +11,6 @@
       "quickSearch": 0,
       "filterable": 0
     },
-    "lives": [
-    {
-      "name": "直播一",
-      "type": 0,
-      "url": "./lib/私人1.txt",
-      "playerType": 1,
-      "ua": "okhttp/3.15",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    }
-],
     {
       "key": "csp_WoGG",
       "name": "💖玩偶影视4K",
@@ -1002,6 +991,15 @@
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
+    {
+      "name": "直播一",
+      "type": 0,
+      "url": "./lib/私人1.txt",
+      "playerType": 1,
+      "ua": "okhttp/3.15",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    }
     {
       "name": "IPV6",
       "type": 0,
