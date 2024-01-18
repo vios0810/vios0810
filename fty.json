@@ -11,6 +11,17 @@
       "quickSearch": 0,
       "filterable": 0
     },
+    "lives": [
+    {
+      "name": "直播一",
+      "type": 0,
+      "url": "./lib/ppp.txt",
+      "playerType": 1,
+      "ua": "okhttp/3.15",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    }
+],
     {
       "key": "csp_WoGG",
       "name": "💖玩偶影视4K",
