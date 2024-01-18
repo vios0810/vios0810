@@ -15,7 +15,7 @@
     {
       "name": "直播一",
       "type": 0,
-      "url": "./lib/ppp.txt",
+      "url": "./lib/私人1.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
